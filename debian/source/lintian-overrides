@@ -1,0 +1,4 @@
+python-cookiecutter source: file-without-copyright-information
+python-cookiecutter source: no-debian-changes
+python-cookiecutter source: source-contains-prebuilt-windows-binary
+python-cookiecutter source: source-package-encodes-python-version
