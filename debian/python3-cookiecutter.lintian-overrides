@@ -1,0 +1,4 @@
+python3-cookiecutter: copyright-without-copyright-notice
+python3-cookiecutter: initial-upload-closes-no-bugs
+python3-cookiecutter: no-manual-page
+python3-cookiecutter: zero-byte-file-in-doc-directory
